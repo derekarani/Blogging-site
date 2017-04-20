@@ -1,0 +1,34 @@
+.margin{
+   text-align: center;
+   background-image: url(../img/1.jpg);
+   color: white;
+   height: 300px;
+
+}
+
+.intro {
+
+  padding: 60px;
+}
+
+
+h1{
+  text-align: center;
+}
+
+.insidepost{
+  font-style: italic;
+}
+
+.about{
+  background-image: url(../img/3.jpg);
+  color: white;
+  height:250px;
+  text-align: center;
+
+}
+
+.ndani {
+  padding: 45px;
+  
+}
